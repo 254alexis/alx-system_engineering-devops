@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:school hello
+chown vincent:staff files
